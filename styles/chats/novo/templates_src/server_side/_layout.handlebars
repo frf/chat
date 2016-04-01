@@ -31,10 +31,8 @@
                     {{else}}
                         {{#if mibewHost}}
                             <a onclick="window.open('{{mibewHost}}');return false;" href="{{mibewHost}}">
-                                <img src="{{asset "@CurrentStyle/images/default-logo.png"}}" alt=""/>
                             </a>
                         {{else}}
-                            <img src="{{asset "@CurrentStyle/images/default-logo.png"}}" alt=""/>
                         {{/if}}
                     {{/if}}
                     <div id="page-title">{{#block "pageTitle"}}{{l10n "Mibew Messenger"}}{{/block}}</div>
