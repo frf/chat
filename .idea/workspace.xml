@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="094f8023-e518-4e89-87f2-ede7bf11b653" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/layout.handlebars" afterPath="$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/layout.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/chats/default/templates_compiled/client_side/templates.js" afterPath="$PROJECT_DIR$/styles/chats/default/templates_compiled/client_side/templates.js" />
     </list>
     <ignored path="chat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,23 +48,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.handlebars" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.handlebars" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/layout.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state vertical-scroll-proportion="-13.153846">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templates.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="templates.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_compiled/client_side/templates.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="5446" selection-start-line="17" selection-start-column="5446" selection-end-line="17" selection-end-column="5446" />
+            <state vertical-scroll-proportion="0.3697479">
+              <caret line="17" column="5523" selection-start-line="17" selection-start-column="5523" selection-end-line="17" selection-end-column="5523" />
               <folding>
-                <marker date="1436885028000" expanded="true" signature="11572:11588" placeholder="..." />
+                <marker date="1459542640634" expanded="true" signature="11552:11568" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -166,6 +166,7 @@
         <option value="$PROJECT_DIR$/teste.html" />
         <option value="$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars" />
         <option value="$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/layout.handlebars" />
+        <option value="$PROJECT_DIR$/styles/chats/default/templates_compiled/client_side/templates.js" />
       </list>
     </option>
   </component>
@@ -321,7 +322,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459542448941</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Nome">
+      <created>1459542552264</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1459542552264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -634,21 +641,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_compiled/client_side/templates.js">
+    <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/layout.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="5446" selection-start-line="17" selection-start-column="5446" selection-end-line="17" selection-end-column="5446" />
-          <folding>
-            <marker date="1436885028000" expanded="true" signature="11572:11588" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="-13.153846">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/layout.handlebars">
+    <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_compiled/client_side/templates.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding />
+        <state vertical-scroll-proportion="0.3697479">
+          <caret line="17" column="5523" selection-start-line="17" selection-start-column="5523" selection-end-line="17" selection-end-column="5523" />
+          <folding>
+            <marker date="1459542640634" expanded="true" signature="11552:11568" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
