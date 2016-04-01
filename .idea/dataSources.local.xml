@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - chat@localhost" uuid="211bb71f-3a1f-449a-998f-02fa9bab0a9d">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>chat.*</schema-pattern>
+      <default-schemas>chat.*</default-schemas>
+    </data-source>
+  </component>
+</project>
