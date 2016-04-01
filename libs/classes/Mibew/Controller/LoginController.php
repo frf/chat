@@ -61,7 +61,7 @@ class LoginController extends AbstractController
 
         $page['localeLinks'] = get_locale_links();
         $page['title'] = getlocal('Login');
-        $page['headertitle'] = getlocal('Mibew Messenger');
+        $page['headertitle'] = getlocal('FSI Messenger');
         $page['show_small_login'] = false;
         $page['fixedwrap'] = true;
 

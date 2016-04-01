@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="094f8023-e518-4e89-87f2-ede7bf11b653" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locales/pt-br/translation.po" afterPath="$PROJECT_DIR$/locales/pt-br/translation.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php" afterPath="$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php" />
     </list>
     <ignored path="chat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,27 +71,27 @@
       <file leaf-file-name="LoginController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.851852">
-              <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+            <state vertical-scroll-proportion="-31.333334">
+              <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.7454543">
+            <state vertical-scroll-proportion="0.6247031">
               <caret line="58" column="25" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="translation.po" pinned="false" current-in-tab="true">
+      <file leaf-file-name="translation.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locales/pt-br/translation.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44537815">
+            <state vertical-scroll-proportion="0.0">
               <caret line="455" column="32" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
               <folding />
             </state>
@@ -154,6 +154,7 @@
         <option value="$PROJECT_DIR$/locales/pt-br/mail_templates.yml" />
         <option value="$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars" />
         <option value="$PROJECT_DIR$/locales/pt-br/translation.po" />
+        <option value="$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php" />
       </list>
     </option>
   </component>
@@ -434,7 +435,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459541501143</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Nome">
+      <created>1459541648206</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1459541648206</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -692,22 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5384617">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.851852">
-          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libs/common/locale.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33184856">
@@ -723,18 +714,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/HomeController.php">
+    <entry file="file://$PROJECT_DIR$/locales/pt-br/translation.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.7454543">
-          <caret line="58" column="25" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="455" column="32" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locales/pt-br/translation.po">
+    <entry file="file://$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44537815">
-          <caret line="455" column="32" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
+        <state vertical-scroll-proportion="-5.5384617">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.333334">
+          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6247031">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="31" />
           <folding />
         </state>
       </provider>
