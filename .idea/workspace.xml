@@ -2,8 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="094f8023-e518-4e89-87f2-ede7bf11b653" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/avatarbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/bottombg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/buttons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/chatbgl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/chatbgr.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/chatheaderbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/chatheaderbgc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/chatheaderbgl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/chatheaderbgr.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/content.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/default-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/free.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/input_name.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/list.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/logobg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/nextpage.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/prevpage.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/sdwbgc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/sdwbgl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/sdwbgr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/submit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/topbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/wndb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/wndbl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/wndbr.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/wndt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/wndtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/images/wndtr.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/js/compiled/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/screenshots/client_chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_compiled/client_side/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/chat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/chat_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/iframe.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/js/compiled/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/js/source/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/js/source/resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_compiled/client_side/templates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/_logo.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/avatar.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/controls/close.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/controls/history.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/controls/redirect.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/controls/refresh.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/controls/secure_mode.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/controls/send_mail.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/controls/sound.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/controls/user_name.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/layout.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/message.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/message_form.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/status/base.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/status/message.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/status/typing.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/default_control.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/invitation/layout.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/leave_message/description.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/leave_message/form.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/leave_message/layout.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/leave_message/sent_description.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/message.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/survey/form.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/survey/layout.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/server_side/_layout.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/server_side/chat.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/server_side/confirm.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/server_side/error.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/server_side/mail.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/server_side/mailsent.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/server_side/redirect.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/chats/novo/templates_src/server_side/redirected.handlebars" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/chats/default/templates_src/client_side/_logo.handlebars" afterPath="$PROJECT_DIR$/styles/chats/default/templates_src/client_side/_logo.handlebars" />
     </list>
     <ignored path="chat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,28 +113,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_layout.handlebars" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars">
+      <file leaf-file-name="_logo.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/_logo.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.153846">
-              <caret line="83" column="7" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+            <state vertical-scroll-proportion="-8.307693">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/js/source/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/js/compiled/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iframe.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/iframe.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="12.037037">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="layout.handlebars" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/layout.handlebars">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.384615">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message.handlebars" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/message.handlebars">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/invitation/layout.handlebars">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -68,10 +175,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="message_form.handlebars" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/chat/message_form.handlebars">
+      <file leaf-file-name="layout.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/layout.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.1538463">
+            <state vertical-scroll-proportion="6.923077">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message_form.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/message_form.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/message.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -79,62 +206,10 @@
         </entry>
       </file>
       <file leaf-file-name="_logo.handlebars" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/_logo.handlebars">
+        <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/_logo.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="templates.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_compiled/client_side/templates.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="5523" selection-start-line="17" selection-start-column="5523" selection-end-line="17" selection-end-column="5523" />
-              <folding>
-                <marker date="1459542640634" expanded="true" signature="11552:11568" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/chats/default/config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-31.333334">
-              <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/HomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.7818184">
-              <caret line="58" column="25" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teste.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teste.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.6666665">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.76">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -260,7 +335,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="novo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,7 +357,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="novo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -308,37 +383,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates_src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client_side" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chats" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="novo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -349,6 +394,70 @@
               <option name="myItemId" value="client_side" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_side" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invitation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_side" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="chat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -372,7 +481,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="novo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -399,40 +508,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="chats" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="screenshots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chats" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -568,6 +643,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/styles/chats" />
       <recent name="$PROJECT_DIR$/locales/en" />
       <recent name="$PROJECT_DIR$/configs" />
     </key>
@@ -673,7 +749,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459543334768</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Nome">
+      <created>1459543443098</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1459543443098</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1023,8 +1105,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/chats/default/templates_src/client_side/_logo.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state vertical-scroll-proportion="-8.307693">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/js/source/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/js/compiled/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/iframe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.037037">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/invitation/layout.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/layout.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.923077">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/message_form.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/chat/message.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/chats/novo/templates_src/client_side/_logo.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
           <folding />
         </state>
       </provider>
