@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="094f8023-e518-4e89-87f2-ede7bf11b653" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locales/pt-br/mail_templates.yml" afterPath="$PROJECT_DIR$/locales/pt-br/mail_templates.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars" afterPath="$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locales/pt-br/translation.po" afterPath="$PROJECT_DIR$/locales/pt-br/translation.po" />
     </list>
     <ignored path="chat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.handlebars" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_layout.handlebars" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74666667">
-              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            <state vertical-scroll-proportion="-5.5384617">
+              <caret line="28" column="52" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.851852">
+              <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -72,26 +81,19 @@
       <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.1090908">
+            <state vertical-scroll-proportion="-6.7454543">
               <caret line="58" column="25" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="locale.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/common/locale.php">
+      <file leaf-file-name="translation.po" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/locales/pt-br/translation.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4444444">
-              <caret line="933" column="9" selection-start-line="933" selection-start-column="9" selection-end-line="933" selection-end-column="9" />
-              <folding>
-                <marker date="1436884952000" expanded="true" signature="2107:2150" placeholder="SELECT code ..." />
-                <marker date="1436884952000" expanded="true" signature="21621:21662" placeholder="SELECT * FRO..." />
-                <marker date="1436884952000" expanded="true" signature="26091:26135" placeholder="SELECT * FRO..." />
-                <marker date="1436884952000" expanded="true" signature="30741:30867" placeholder="INSERT INTO ..." />
-                <marker date="1436884952000" expanded="true" signature="31489:31537" placeholder="SELECT COUNT..." />
-                <marker date="1436884952000" expanded="true" signature="31854:31914" placeholder="INSERT INTO ..." />
-              </folding>
+            <state vertical-scroll-proportion="0.44537815">
+              <caret line="455" column="32" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,6 +153,7 @@
         <option value="$PROJECT_DIR$/styles/chats/default/templates_src/server_side/_layout.handlebars" />
         <option value="$PROJECT_DIR$/locales/pt-br/mail_templates.yml" />
         <option value="$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars" />
+        <option value="$PROJECT_DIR$/locales/pt-br/translation.po" />
       </list>
     </option>
   </component>
@@ -425,7 +428,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459541252461</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nome">
+      <created>1459541501143</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1459541501143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -651,29 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1090908">
-          <caret line="58" column="25" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/common/locale.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4444444">
-          <caret line="933" column="9" selection-start-line="933" selection-start-column="9" selection-end-line="933" selection-end-column="9" />
-          <folding>
-            <marker date="1436884952000" expanded="true" signature="2107:2150" placeholder="SELECT code ..." />
-            <marker date="1436884952000" expanded="true" signature="21621:21662" placeholder="SELECT * FRO..." />
-            <marker date="1436884952000" expanded="true" signature="26091:26135" placeholder="SELECT * FRO..." />
-            <marker date="1436884952000" expanded="true" signature="30741:30867" placeholder="INSERT INTO ..." />
-            <marker date="1436884952000" expanded="true" signature="31489:31537" placeholder="SELECT COUNT..." />
-            <marker date="1436884952000" expanded="true" signature="31854:31914" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/configs/config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -698,14 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locales/pt-br/translation.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3325893">
-          <caret line="560" column="38" selection-start-line="560" selection-start-column="33" selection-end-line="560" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locales/pt-br/mail_templates.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -716,8 +694,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/pages/default/templates_src/server_side/_layout.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74666667">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state vertical-scroll-proportion="-5.5384617">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.851852">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/common/locale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33184856">
+          <caret line="933" column="9" selection-start-line="933" selection-start-column="9" selection-end-line="933" selection-end-column="9" />
+          <folding>
+            <marker date="1436884952000" expanded="true" signature="2107:2150" placeholder="SELECT code ..." />
+            <marker date="1436884952000" expanded="true" signature="21621:21662" placeholder="SELECT * FRO..." />
+            <marker date="1436884952000" expanded="true" signature="26091:26135" placeholder="SELECT * FRO..." />
+            <marker date="1436884952000" expanded="true" signature="30741:30867" placeholder="INSERT INTO ..." />
+            <marker date="1436884952000" expanded="true" signature="31489:31537" placeholder="SELECT COUNT..." />
+            <marker date="1436884952000" expanded="true" signature="31854:31914" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/classes/Mibew/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.7454543">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locales/pt-br/translation.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44537815">
+          <caret line="455" column="32" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
           <folding />
         </state>
       </provider>
