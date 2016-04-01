@@ -20,22 +20,8 @@
             {{! Logo block}}
             <div id="logo-wrapper">
                 <div id="logo">
-                    {{#if company.chatLogoURL}}
-                        {{#if mibewHost}}
-                            <a onclick="window.open('{{mibewHost}}');return false;" href="{{mibewHost}}">
-                                <img src="{{company.chatLogoURL}}" alt=""/>
-                            </a>
-                        {{else}}
-                            <img src="{{company.chatLogoURL}}" alt=""/>
-                        {{/if}}
-                    {{else}}
-                        {{#if mibewHost}}
-                            <a onclick="window.open('{{mibewHost}}');return false;" href="{{mibewHost}}">
-                            </a>
-                        {{else}}
-                        {{/if}}
-                    {{/if}}
-                    <div id="page-title">{{#block "pageTitle"}}{{l10n "Mibew Messenger"}}{{/block}}</div>
+
+                    <div id="page-title">{{#block "pageTitle"}}{{l10n ""}}{{/block}}</div>
                     <div class="clear">&nbsp;</div>
                 </div>
             </div>
