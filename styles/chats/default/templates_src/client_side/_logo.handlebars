@@ -4,7 +4,7 @@
         {{#if page.company.chatLogoURL}}
             {{#if page.mibewHost}}
                 <a onclick="window.open('{{page.mibewHost}}');return false;" href="{{page.mibewHost}}">
-                    <img src="{{page.company.chatLogoURL}}" alt=""/>
+                    <img src="{{page.company.chatLogoURL}}" alt=""  />
                 </a>
             {{else}}
                 <img src="{{page.company.chatLogoURL}}" alt=""/>
@@ -12,7 +12,7 @@
         {{else}}
             {{#if page.mibewHost}}
                 <a onclick="window.open('{{page.mibewHost}}');return false;" href="{{page.mibewHost}}">
-                    <img src="{{page.stylePath}}/images/default-logo.png" alt=""/>
+                    {{page.title}}
                 </a>
             {{else}}
                 <img src="{{page.stylePath}}/images/default-logo.png" alt=""/>
